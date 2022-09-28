@@ -3,11 +3,17 @@
 ## *Table of Contents* 
 
  -Project Title
+ 
  -Description
+ 
  -How to Run Program
+ 
  -File Used
+ 
  -Additional Documentation
+ 
  -Versioning
+ 
 ### Project Title
 
 ***Hello World***
