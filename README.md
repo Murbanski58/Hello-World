@@ -26,8 +26,7 @@ Becoming familiar with Github and creating respositories.
  
 ### File Used
 
-Here's my favorite restaurant in Iowa City.
-[Mickeys Irish Pub] (http://www.mickysirishpub.com/)
+Here's my favorite restaurant in Iowa City, [Mickeys Irish Pub](http://www.mickysirishpub.com/).
 
 ### Additional Documentation
 
