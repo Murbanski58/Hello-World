@@ -1,19 +1,28 @@
 # **Hello-World** 
-##*Table of Contents* 
+
+## *Table of Contents* 
+
  Project Title
  Description
  How to Run Program
  File Used
  Additional Documentation
  Versioning
-###Project Title
+### Project Title
+
 > Hello World
-###Description
+> 
+### Description
+
 Becoming familiar with Github and creating respositories.
-###How to Run Program
+
+### How to Run Program
  
-###File Used
+### File Used
+
 Here's my favorite restaurant in Iowa City.
 [Mickeys Irish Pub] (http://www.mickysirishpub.com/)
-###Additional Documentation
-###Versioning
+
+### Additional Documentation
+
+### Versioning
